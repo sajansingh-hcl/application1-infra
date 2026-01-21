@@ -6,5 +6,5 @@ spec:
   forProvider:
     addressPrefixes:
       - 10.0.1.0/24
-    resourceGroupName: pep-rg-eus
+    resourceGroupName: Sajan-Gitops-RG
     virtualNetworkName: crossplane-virtualnetwork
