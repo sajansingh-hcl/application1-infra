@@ -5,5 +5,5 @@
 # spec:
 #   forProvider:
 #     allocationMethod: Static
-#     location: East US 2
-#     resourceGroupName: pep-rg-eus
+#     location: East US
+#     resourceGroupName: Sajan-Gitops-RG
