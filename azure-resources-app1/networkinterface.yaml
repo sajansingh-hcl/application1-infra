@@ -11,5 +11,5 @@ spec:
           name: crossplane-subnet
         # publicIpAddressIdRef:
         #   name: crossplane-vm-publicip
-    location: East US 2
-    resourceGroupName: pep-rg-eus
+    location: East US
+    resourceGroupName: Sajan-Gitops-RG
