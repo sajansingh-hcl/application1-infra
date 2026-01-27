@@ -10,13 +10,13 @@ spec:
           you@me.com
         username: adminuser
     adminUsername: adminuser
-    location: East US 2
+    location: East US
     networkInterfaceIdsRefs:
       - name: crossplane-nic
     osDisk:
       caching: ReadWrite
       storageAccountType: Standard_LRS
-    resourceGroupName: pep-rg-eus
+    resourceGroupName: Sajan-Gitops-RG
     size: Standard_F2
     sourceImageReference:
       offer: UbuntuServer
